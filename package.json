@@ -17,5 +17,9 @@
         "path": "./themes/AB Minimal (Dark)-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alehoppai/AB-Minimal-Dark-VSCode-color-theme-.git"
   }
 }
